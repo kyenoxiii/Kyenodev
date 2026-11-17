@@ -1,0 +1,1 @@
+<section class="closing"><div class="content-inner"><span class="eyebrow">{{ $eyebrow }}</span><h2>{{ $title }}<br><span>{{ $accent }}</span></h2><div class="closing-row"><p>{{ $copy }}</p><a class="button" href="mailto:kylejannsenn@gmail.com?subject={{ urlencode($subject) }}">Get in touch <i data-lucide="arrow-up-right"></i></a></div></div></section>
